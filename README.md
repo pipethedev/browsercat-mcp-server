@@ -3,6 +3,10 @@
 
 A Model Context Protocol server that provides browser automation capabilities using BrowserCat's cloud browser service. This server enables LLMs to interact with web pages, take screenshots, and execute JavaScript in a real browser environment without needing to install browsers locally.
 
+<a href="https://glama.ai/mcp/servers/@pipethedev/browsercat-mcp-server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@pipethedev/browsercat-mcp-server/badge" alt="BrowserCat Server MCP server" />
+</a>
+
 ## Components
 
 ### Tools
